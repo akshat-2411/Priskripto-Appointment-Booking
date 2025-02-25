@@ -45,7 +45,7 @@ Priscripto is a web-based doctor appointment booking system that allows users to
 Feel free to contribute! Fork the repo, create a branch, make changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 License.
 
 ## Contact
 For any queries, reach out at [santosh060878@gmail.com](mailto:your-email@example.com).
